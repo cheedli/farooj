@@ -405,7 +405,7 @@ def enhance_response_with_groq(response_message, user_input, lang="en"):
     Enhance the bot's response using Groq LLaMA model
     """
     # Groq API configuration
-    GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "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")
+    GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "put your key here")
     GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
     
     headers = {
