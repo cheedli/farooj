@@ -1,0 +1,1292 @@
+[
+    {
+        "timestamp": "2025-02-17 21:50:12",
+        "user_number": "user",
+        "incoming_message": "hi",
+        "response": "👋 Welcome to Al Farooj Restaurant! \nWould you like to see our menu or place an order? Try saying, 'Can I see the menu please?' or 'I want to order'."
+    },
+    {
+        "timestamp": "2025-02-17 21:50:14",
+        "user_number": "user",
+        "incoming_message": "menu",
+        "response": "{'text': \"🍽️ Here’s our menu! \\n\\nWould you like to place an order? (Try, 'I want to order')\", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-02-17 21:50:32",
+        "user_number": "user",
+        "incoming_message": "i want to order 3 cesar shawarma salad",
+        "response": "🍽️ You selected 3 x Caesar Shawarma Salad.\nDescription: Caesar salad topped with shawarma chicken.\nWould you like to customize it? (Reply with 'yes' or 'no')"
+    },
+    {
+        "timestamp": "2025-02-17 21:50:37",
+        "user_number": "user",
+        "incoming_message": "yes",
+        "response": "✏️ Please provide your customization details (e.g., 'extra cheese, no onions')."
+    },
+    {
+        "timestamp": "2025-02-17 21:50:41",
+        "user_number": "user",
+        "incoming_message": "yo",
+        "response": "✅ Customization saved. Would you like to add another dish? (yes/no)"
+    },
+    {
+        "timestamp": "2025-02-17 21:50:43",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ All dishes added. Is your order for delivery or will you come to the restaurant?"
+    },
+    {
+        "timestamp": "2025-02-17 21:50:49",
+        "user_number": "user",
+        "incoming_message": "delivary",
+        "response": "❓ Please specify if your order is 'delivery' or 'dine-in'."
+    },
+    {
+        "timestamp": "2025-02-17 21:50:55",
+        "user_number": "user",
+        "incoming_message": "delivery",
+        "response": "📍 Which Al Farooj branch would you like to order from? Please choose from: Mazmar, Ajman, Sharjah, Tawam, Manaseer."
+    },
+    {
+        "timestamp": "2025-02-17 21:50:59",
+        "user_number": "user",
+        "incoming_message": "mazmar",
+        "response": "💳 Please choose your payment method: cash or card."
+    },
+    {
+        "timestamp": "2025-02-17 21:51:01",
+        "user_number": "user",
+        "incoming_message": "cash",
+        "response": "💵 Payment method saved as cash. Please share your delivery location or type your address."
+    },
+    {
+        "timestamp": "2025-02-17 21:51:03",
+        "user_number": "user",
+        "incoming_message": "c",
+        "response": "📌 Delivery location received. Please provide your name to finalize your order."
+    },
+    {
+        "timestamp": "2025-02-17 21:51:20",
+        "user_number": "user",
+        "incoming_message": "hi",
+        "response": "👋 Welcome to Al Farooj Restaurant! \nWould you like to see our menu or place an order? Try saying, 'Can I see the menu please?' or 'I want to order'."
+    },
+    {
+        "timestamp": "2025-02-17 21:51:32",
+        "user_number": "user",
+        "incoming_message": "i want to order 3 cesar chawrma chicken salad",
+        "response": "🍽️ You selected 3 x Falafel Salad.\nDescription: Fresh falafel salad with tahini dressing.\nWould you like to customize it? (Reply with 'yes' or 'no')"
+    },
+    {
+        "timestamp": "2025-02-17 21:51:36",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ Dish added to your order. Would you like to add another dish? (yes/no)"
+    },
+    {
+        "timestamp": "2025-02-17 21:51:37",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ All dishes added. Is your order for delivery or will you come to the restaurant?"
+    },
+    {
+        "timestamp": "2025-02-17 21:51:43",
+        "user_number": "user",
+        "incoming_message": "dine in",
+        "response": "📍 Which Al Farooj branch will you visit? Please choose from: Mazmar, Ajman, Sharjah, Tawam, Manaseer."
+    },
+    {
+        "timestamp": "2025-02-17 21:51:46",
+        "user_number": "user",
+        "incoming_message": "manaseer",
+        "response": "✅ Dine-in order confirmed at Manaseer. Please provide your name to finalize your order."
+    },
+    {
+        "timestamp": "2025-02-17 21:51:49",
+        "user_number": "user",
+        "incoming_message": "d",
+        "response": "✅ Thank you D! Your order (ID: 0dbb3619) has been confirmed.\n🧾 Invoice:\n3 x Falafel Salad @ AED 17.00 = AED 51.00\nTotal: AED 51.00\nEnjoy your meal! 🍽️"
+    },
+    {
+        "timestamp": "2025-05-01 10:17:59",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "👋 Welcome to Al Farooj Restaurant! \nWould you like to see our menu or place an order? Try saying, 'Can I see the menu please?' or 'I want to order'."
+    },
+    {
+        "timestamp": "2025-05-01 10:18:07",
+        "user_number": "user",
+        "incoming_message": "menu",
+        "response": "{'text': \"🍽️ Here's our menu! \\n\\nWould you like to place an order? (Try, 'I want to order')\", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 10:18:16",
+        "user_number": "user",
+        "incoming_message": "i want to order 2 beans salad",
+        "response": "🍽️ You selected 2 x Beans Salad.\nDescription: Salad made with fresh beans and vegetables.\nWould you like to customize it? (Reply with 'yes' or 'no')"
+    },
+    {
+        "timestamp": "2025-05-01 10:18:19",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ Dish added to your order. Would you like to add another dish? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 10:18:22",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ All dishes added. Is your order for delivery or will you come to the restaurant?"
+    },
+    {
+        "timestamp": "2025-05-01 10:18:31",
+        "user_number": "user",
+        "incoming_message": "deleviery",
+        "response": "None"
+    },
+    {
+        "timestamp": "2025-05-01 10:18:40",
+        "user_number": "user",
+        "incoming_message": "delivery",
+        "response": "📍 Which Al Farooj branch would you like to order from? Please choose from: Mazmar, Ajman, Sharjah, Tawam, Manaseer."
+    },
+    {
+        "timestamp": "2025-05-01 10:18:47",
+        "user_number": "user",
+        "incoming_message": "mazmar",
+        "response": "💳 Please choose your payment method: cash or card."
+    },
+    {
+        "timestamp": "2025-05-01 10:18:49",
+        "user_number": "user",
+        "incoming_message": "cash",
+        "response": "💵 Payment method saved as cash. Please share your delivery location or type your address."
+    },
+    {
+        "timestamp": "2025-05-01 10:18:57",
+        "user_number": "user",
+        "incoming_message": "xx",
+        "response": "📌 Delivery location received. Please provide your name to finalize your order."
+    },
+    {
+        "timestamp": "2025-05-01 10:19:02",
+        "user_number": "user",
+        "incoming_message": "x",
+        "response": "✅ Thank you X! Your order (ID: a4455094) has been confirmed.\n🧾 Invoice:\n2 x Beans Salad @ AED 25.00 = AED 50.00\nTotal: AED 50.00\nEnjoy your meal! 🍽️"
+    },
+    {
+        "timestamp": "2025-05-01 10:20:10",
+        "user_number": "user",
+        "incoming_message": "thanks",
+        "response": "👋 Welcome to Al Farooj Restaurant! \nWould you like to see our menu or place an order? Try saying, 'Can I see the menu please?' or 'I want to order'."
+    },
+    {
+        "timestamp": "2025-05-01 10:20:23",
+        "user_number": "user",
+        "incoming_message": "i want to order 5 chicken shawarma sandwich and loaded fries",
+        "response": "🍽️ You selected 5 x Loaded Fries.\nDescription: Fries loaded with toppings and sauces.\nWould you like to customize it? (Reply with 'yes' or 'no')"
+    },
+    {
+        "timestamp": "2025-05-01 10:20:28",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ Dish added to your order. Would you like to add another dish? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 10:20:30",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ All dishes added. Is your order for delivery or will you come to the restaurant?"
+    },
+    {
+        "timestamp": "2025-05-01 10:20:30",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "None"
+    },
+    {
+        "timestamp": "2025-05-01 10:20:38",
+        "user_number": "user",
+        "incoming_message": "pick up",
+        "response": "None"
+    },
+    {
+        "timestamp": "2025-05-01 10:20:42",
+        "user_number": "user",
+        "incoming_message": "delivery",
+        "response": "📍 Which Al Farooj branch would you like to order from? Please choose from: Mazmar, Ajman, Sharjah, Tawam, Manaseer."
+    },
+    {
+        "timestamp": "2025-05-01 10:24:51",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "👋 Hey there! Welcome to Al Farooj Restaurant! \nWanna see what we've got on the menu or ready to order? Just say 'show me the menu' or 'I'd like to order'."
+    },
+    {
+        "timestamp": "2025-05-01 10:24:57",
+        "user_number": "user",
+        "incoming_message": "menu",
+        "response": "{'text': \"🍽️ Here's what we've got today! Everything's fresh and delicious! \\n\\nReady to place your order? (Just say 'I want to order' or 'Let me get some food')\", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 10:25:20",
+        "user_number": "user",
+        "incoming_message": "i want to order 2 Falafel Platter Box",
+        "response": "🍽️ You selected 2 x Falafel Platter Box.\nDescription: A platter of falafel served with tahini and vegetables.\nWould you like to customize it? (Reply with 'yes' or 'no')"
+    },
+    {
+        "timestamp": "2025-05-01 10:25:29",
+        "user_number": "user",
+        "incoming_message": "yes",
+        "response": "✏️ Sure thing! What customizations would you like? (like 'extra cheese, no onions' or 'make it spicy')"
+    },
+    {
+        "timestamp": "2025-05-01 10:25:32",
+        "user_number": "user",
+        "incoming_message": "spicer",
+        "response": "✅ Perfect! I've saved those customizations. Anything else you'd like to add to your order? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 10:25:36",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ All dishes added. Is your order for delivery or will you come to the restaurant?"
+    },
+    {
+        "timestamp": "2025-05-01 10:30:58",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "None \nNone"
+    },
+    {
+        "timestamp": "2025-05-01 10:31:59",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "None \nNone"
+    },
+    {
+        "timestamp": "2025-05-01 10:32:04",
+        "user_number": "user",
+        "incoming_message": "d",
+        "response": "It's a bit tough to read what you're trying to say. Could you type out \"menu\" or \"order\" for me, or would you like to take a look at our menu?"
+    },
+    {
+        "timestamp": "2025-05-01 10:32:16",
+        "user_number": "user",
+        "incoming_message": "i want to order 2 beans salad please",
+        "response": "🍽️ You selected 2 x Beans Salad.\nDescription: Salad made with fresh beans and vegetables.\nWould you like to customize it? (Reply with 'yes' or 'no')"
+    },
+    {
+        "timestamp": "2025-05-01 10:32:20",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ Dish added to your order. Would you like to add another dish? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 10:32:23",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ All dishes added. Is your order for delivery or will you come to the restaurant?"
+    },
+    {
+        "timestamp": "2025-05-01 10:33:52",
+        "user_number": "user",
+        "incoming_message": "hi",
+        "response": "None \nNone"
+    },
+    {
+        "timestamp": "2025-05-01 10:42:43",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "None \nNone"
+    },
+    {
+        "timestamp": "2025-05-01 10:43:13",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "It looks like we're starting from scratch! What can I help you with today?"
+    },
+    {
+        "timestamp": "2025-05-01 10:43:22",
+        "user_number": "user",
+        "incoming_message": "i want to see the menu",
+        "response": "{'text': \"I'm happy to chat with you, but it seems like we haven't had a conversation yet. What's on your mind? 🤔\", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 10:44:13",
+        "user_number": "user",
+        "incoming_message": "i want to order 2 beans salad",
+        "response": "🍽️ You selected 2 x Beans Salad.\nDescription: Salad made with fresh beans and vegetables.\nWould you like to customize it? (Reply with 'yes' or 'no')"
+    },
+    {
+        "timestamp": "2025-05-01 10:44:16",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ Dish added to your order. Would you like to add another dish? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 10:44:18",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "We've got all your dishes added to the order! Now, would you like us to bring it to you at home or are you planning on swinging by the restaurant to pick it up?"
+    },
+    {
+        "timestamp": "2025-05-01 10:44:26",
+        "user_number": "user",
+        "incoming_message": "pick up",
+        "response": "None"
+    },
+    {
+        "timestamp": "2025-05-01 10:44:31",
+        "user_number": "user",
+        "incoming_message": "delivery",
+        "response": "📍 Which Al Farooj branch would you like to order from? Please choose from: Mazmar, Ajman, Sharjah, Tawam, Manaseer."
+    },
+    {
+        "timestamp": "2025-05-01 10:44:37",
+        "user_number": "user",
+        "incoming_message": "mazmar",
+        "response": "I'm sorry, there was an error processing your request. How can I help you today?"
+    },
+    {
+        "timestamp": "2025-05-01 10:51:13",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "It looks like we're starting from scratch here! 👋"
+    },
+    {
+        "timestamp": "2025-05-01 10:51:25",
+        "user_number": "user",
+        "incoming_message": "i want to see the menu",
+        "response": "{'text': \"I'm happy to chat, but it seems like we haven't had a conversation yet. What's on your mind?\", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 10:51:33",
+        "user_number": "user",
+        "incoming_message": "i want to order 3 beans salad",
+        "response": "🍽️ You selected 3 x Beans Salad.\nDescription: Salad made with fresh beans and vegetables.\nWould you like to customize it? (Reply with 'yes' or 'no')"
+    },
+    {
+        "timestamp": "2025-05-01 10:51:35",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ Dish added to your order. Would you like to add another dish? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 10:51:38",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "👋 Alright, all your dishes are added to the order! Now, do you need us to bring it to you or are you planning on swinging by the restaurant to pick it up?"
+    },
+    {
+        "timestamp": "2025-05-01 10:51:48",
+        "user_number": "user",
+        "incoming_message": "delivery please",
+        "response": "📍 Which Al Farooj branch would you like to order from? Please choose from: Mazmar, Ajman, Sharjah, Tawam, Manaseer."
+    },
+    {
+        "timestamp": "2025-05-01 10:51:51",
+        "user_number": "user",
+        "incoming_message": "mazmar",
+        "response": "I'm sorry, there was an error processing your request. How can I help you today?"
+    },
+    {
+        "timestamp": "2025-05-01 10:52:00",
+        "user_number": "user",
+        "incoming_message": "cash",
+        "response": "💸 Cash is the way to go! Can you tell me where you'd like your order delivered, or feel free to type in your address?"
+    },
+    {
+        "timestamp": "2025-05-01 10:52:11",
+        "user_number": "user",
+        "incoming_message": "mazmar 1234",
+        "response": "📌 Delivery location received. Please provide your name to finalize your order."
+    },
+    {
+        "timestamp": "2025-05-01 10:52:14",
+        "user_number": "user",
+        "incoming_message": "ched",
+        "response": "✅ Thanks, Ched! Your order (#44de614b) is all set.\n🧾 Invoice:\n3 x Beans Salad - AED 25.00 = AED 75.00\n\nTotal: AED 75.00\nEnjoy your meal! 🍽️"
+    },
+    {
+        "timestamp": "2025-05-01 11:33:46",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "\"Hey 👋, welcome to Al Farooj! 😊 How's your day going so far? We're glad you're here. Want to take a look at our menu or are you ready to order something today?\""
+    },
+    {
+        "timestamp": "2025-05-01 11:33:53",
+        "user_number": "user",
+        "incoming_message": "show me the menu",
+        "response": "{'text': \"Hey there 👋! It looks like we haven't had a chance to chat yet. How can I help you today?\", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 11:34:05",
+        "user_number": "user",
+        "incoming_message": "i want to order 2 beans salad",
+        "response": "Awesome choice on the Beans Salad. Would you like to keep the original dressing, or would you prefer to swap it for our special Vinegar and Olive Oil dressing?"
+    },
+    {
+        "timestamp": "2025-05-01 11:34:12",
+        "user_number": "user",
+        "incoming_message": "keep it",
+        "response": "So you'd like to keep the original dish as is, perfect. Would you like to add any extra sides, such as a garlic bread or a salad, to go along with your meal? Or perhaps you'd like to upgrade your drink to something else?"
+    },
+    {
+        "timestamp": "2025-05-01 11:34:19",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "So just to confirm, you'd like to order 2 Al Farooj Beans Salads. Is there anything else you'd like to add to your order today, or are you good to go?"
+    },
+    {
+        "timestamp": "2025-05-01 11:34:33",
+        "user_number": "user",
+        "incoming_message": "good to go",
+        "response": "Awesome, so just to confirm, you'd like to order 2 Beans Salads. Is there anything else you'd like to add to your order, or are you all set?"
+    },
+    {
+        "timestamp": "2025-05-01 11:34:43",
+        "user_number": "user",
+        "incoming_message": "all set",
+        "response": "So you're all set with the 2 Beans Salads. That's all good, but just to confirm - we've got 2 Beans Salads on the way. Is there anything else you'd like to add to your order today?"
+    },
+    {
+        "timestamp": "2025-05-01 15:39:48",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "\"Hey 👋, welcome to Al Farooj! How's your day going so far? We're super glad you're here! Are you looking to check out our menu or do you already know what you're in the mood for today?\""
+    },
+    {
+        "timestamp": "2025-05-01 15:39:59",
+        "user_number": "user",
+        "incoming_message": "give me the menu",
+        "response": "{'text': \"Hey there 👋, welcome to Al Farooj! We're super excited to have you here. \\n\\nBy the way, we don't have any special deals or promotions going on right now.\", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 15:40:17",
+        "user_number": "user",
+        "incoming_message": "i want to order 2 chikn burger bites",
+        "response": "Awesome choice on the Chicken Burger Bites Box. Would you like to customize it with any extra sauce or toppings? We've got garlic mayo, sweet chili, or a spicy harissa sauce - which one sounds good to you?"
+    },
+    {
+        "timestamp": "2025-05-01 15:40:31",
+        "user_number": "user",
+        "incoming_message": "good",
+        "response": "That's great to hear you like the dish. Now, would you like to customize it to your taste? We have a few options available - you can choose from our signature sauces, like the spicy chili sauce or the garlic mayo. Or, if you prefer, we can swap out the meat for something else, like grilled chicken or beef. What sounds good to you?"
+    },
+    {
+        "timestamp": "2025-05-01 15:41:04",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "👋 Welcome to Al Farooj Restaurant! \nWould you like to see our menu or place an order? Try saying, 'Can I see the menu please?' or 'I want to order'."
+    },
+    {
+        "timestamp": "2025-05-01 15:41:10",
+        "user_number": "user",
+        "incoming_message": "i want to order",
+        "response": "Sorry, I couldn't understand your request. Can you rephrase it?"
+    },
+    {
+        "timestamp": "2025-05-01 15:41:15",
+        "user_number": "user",
+        "incoming_message": "menu",
+        "response": "Sorry, I couldn't understand your request. Can you rephrase it?"
+    },
+    {
+        "timestamp": "2025-05-01 15:42:00",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "👋 Welcome to Al Farooj Restaurant! \nWould you like to see our menu or place an order? Try saying, 'Can I see the menu please?' or 'I want to order'."
+    },
+    {
+        "timestamp": "2025-05-01 15:42:07",
+        "user_number": "user",
+        "incoming_message": "i want to see the menu",
+        "response": "{'text': \"🍽️ Here's our menu! \\n\\nWould you like to place an order? (Try, 'I want to order')\", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 15:42:26",
+        "user_number": "user",
+        "incoming_message": "i want to order 1 crispi strype mel",
+        "response": "🍽️ You selected 1 x Crispy Strips Meal.\nDescription: Crispy fried chicken strips served with coleslaw and fries.\nWould you like to customize it? (Reply with 'yes' or 'no')"
+    },
+    {
+        "timestamp": "2025-05-01 15:42:31",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ Dish added to your order. Would you like to add another dish? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 15:42:34",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ All dishes added. Is your order for delivery or will you come to the restaurant?"
+    },
+    {
+        "timestamp": "2025-05-01 15:42:38",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "None"
+    },
+    {
+        "timestamp": "2025-05-01 15:42:41",
+        "user_number": "user",
+        "incoming_message": "pick uo",
+        "response": "None"
+    },
+    {
+        "timestamp": "2025-05-01 15:42:45",
+        "user_number": "user",
+        "incoming_message": "pick up",
+        "response": "None"
+    },
+    {
+        "timestamp": "2025-05-01 15:42:48",
+        "user_number": "user",
+        "incoming_message": "delivery",
+        "response": "📍 Which Al Farooj branch would you like to order from? Please choose from: Mazmar, Ajman, Sharjah, Tawam, Manaseer."
+    },
+    {
+        "timestamp": "2025-05-01 15:42:50",
+        "user_number": "user",
+        "incoming_message": "ajman",
+        "response": "💳 Please choose your payment method: cash or card."
+    },
+    {
+        "timestamp": "2025-05-01 15:42:54",
+        "user_number": "user",
+        "incoming_message": "sw4",
+        "response": "It seems like there might have been a misunderstanding. To proceed with your order, please let me know your preferred payment method: cash or card?"
+    },
+    {
+        "timestamp": "2025-05-01 15:42:56",
+        "user_number": "user",
+        "incoming_message": "cash",
+        "response": "💵 Payment method saved as cash. Please share your delivery location or type your address."
+    },
+    {
+        "timestamp": "2025-05-01 15:43:00",
+        "user_number": "user",
+        "incoming_message": "s",
+        "response": "📌 Delivery location received. Please provide your name to finalize your order."
+    },
+    {
+        "timestamp": "2025-05-01 15:43:02",
+        "user_number": "user",
+        "incoming_message": "c",
+        "response": "✅ Thank you C! Your order (ID: ed762480) has been confirmed.\n🧾 Invoice:\n1 x Crispy Strips Meal @ AED 30.00 = AED 30.00\nTotal: AED 30.00\nEnjoy your meal! 🍽️"
+    },
+    {
+        "timestamp": "2025-05-01 16:01:31",
+        "user_number": "user",
+        "incoming_message": "d",
+        "response": "👋 Welcome to Al Farooj Restaurant! \nWould you like to see our menu or place an order? Try saying, 'Can I see the menu please?' or 'I want to order'."
+    },
+    {
+        "timestamp": "2025-05-01 16:01:34",
+        "user_number": "user",
+        "incoming_message": "menu",
+        "response": "{'text': \"🍽️ Here’s our menu! \\n\\nWould you like to place an order? (Try, 'I want to order')\", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 16:01:38",
+        "user_number": "user",
+        "incoming_message": "i want to order",
+        "response": "❌ Sorry, we couldn't find that dish. Please try again or view the menu."
+    },
+    {
+        "timestamp": "2025-05-01 16:01:54",
+        "user_number": "user",
+        "incoming_message": "i want to order 2 crispy mil chiken",
+        "response": "🍽️ You selected 2 x Crispy Fried Chicken Box.\nDescription: Box of crispy fried chicken with fries and coleslaw.\nWould you like to customize it? (Reply with 'yes' or 'no')"
+    },
+    {
+        "timestamp": "2025-05-01 16:13:39",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "Here's an enhanced response:\n\n\"Hey there! 👋 Welcome to Al Farooj Restaurant! We're so glad you're thinking of us for your meal today. If you're hungry and ready to order, just let me know what you're in the mood for! If you need a little help deciding, I'd be happy to share our menu with you a peek at our latest dishes. Just say the word - 'menu, please' or give me an idea of what you're craving!\""
+    },
+    {
+        "timestamp": "2025-05-01 16:16:08",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "Here is a reformulated phrase that doesn't alter any details whatsoever\":\n\n\"Hi! 😊 Welcome to Al Farooj Restaurant! Would you prefer to explore our menu options or go ahead with placing an order? Simply say 'Menu, please' or 'I'm ready to order'.\""
+    },
+    {
+        "timestamp": "2025-05-01 16:16:39",
+        "user_number": "user",
+        "incoming_message": "hi",
+        "response": "Here is a reformulated phrase that doesn't alter any details whatsoever\":\n\n\"Hello! 👋 Welcome to Al Farooj Restaurant! Would you prefer to browse our menu or go ahead with an order? You can simply ask, 'May I have the menu?' or 'I'm ready to place an order.'\""
+    },
+    {
+        "timestamp": "2025-05-01 16:16:56",
+        "user_number": "user",
+        "incoming_message": "hi",
+        "response": "Here is the reformulated message:\n\n\"Hello and welcome to Al Farooj Restaurant! To get started, would you like to review our menu or go ahead and place an order? You can simply ask, 'May I have a look at the menu?' or 'I'm ready to order, please.'\""
+    },
+    {
+        "timestamp": "2025-05-01 16:17:10",
+        "user_number": "user",
+        "incoming_message": "hi",
+        "response": "Here is a reformulated phrase that keeps all the details intact:\n\n\"Hello! Welcome to Al Farooj Restaurant. How can we assist you? You can ask to view our menu or place an order by simply stating 'Can I see the menu please?' or 'I want to order'.\""
+    },
+    {
+        "timestamp": "2025-05-01 16:18:33",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "Hi! 👋 Welcome to Al Farooj Restaurant! \nWould you like to take a look at our menu or place an order? You can simply say 'Can I see the menu, please?' or 'I'd like to order'."
+    },
+    {
+        "timestamp": "2025-05-01 16:18:41",
+        "user_number": "user",
+        "incoming_message": "menu",
+        "response": "{'text': \"🍽️ Here's our menu! \\n\\nWould you like to place an order? (Try, 'I want to order')\", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 16:19:01",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "Hey! 👋 So, you're at Al Farooj Restaurant. Need the menu or wanna place an order? Just say \"Menu, please\" or \"I'll order\"."
+    },
+    {
+        "timestamp": "2025-05-01 16:19:09",
+        "user_number": "user",
+        "incoming_message": "menu please",
+        "response": "{'text': \"🍽️ Here's our menu! \\n\\nWould you like to place an order? (Try, 'I want to order')\", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 16:19:18",
+        "user_number": "user",
+        "incoming_message": "i want to order 2 beans salad",
+        "response": "\"Hey! You've got 2 servings of our fresh bean and veggie salad. Want to customize it?\""
+    },
+    {
+        "timestamp": "2025-05-01 16:19:26",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "\"Got it, dish added! Want to add another one?\" 🤔"
+    },
+    {
+        "timestamp": "2025-05-01 16:19:32",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "\"Alright, got all your dishes in! Now, are you coming to the restaurant or would you like us to deliver?\""
+    },
+    {
+        "timestamp": "2025-05-01 16:19:38",
+        "user_number": "user",
+        "incoming_message": "pick up",
+        "response": "\"Hey, just to clarify, is your order for delivery or dine-in?\""
+    },
+    {
+        "timestamp": "2025-05-01 16:19:42",
+        "user_number": "user",
+        "incoming_message": "dine in",
+        "response": "\"Hey, which Al Farooj branch are you heading to? Mazmar, Ajman, Sharjah, Tawam, or Manaseer?\""
+    },
+    {
+        "timestamp": "2025-05-01 16:19:53",
+        "user_number": "user",
+        "incoming_message": "manaseer",
+        "response": "\"Hey! Your dine-in order is confirmed at Manaseer. Can you please share your name to finalize the order?\""
+    },
+    {
+        "timestamp": "2025-05-01 16:20:00",
+        "user_number": "user",
+        "incoming_message": "chedli",
+        "response": "\"Hey Chedli, thanks for your order! Just to confirm, your order ID is c815fa42. You got 2 Beans Salads for a total of AED 50.00. Enjoy your meal! 🍽️\""
+    },
+    {
+        "timestamp": "2025-05-01 16:22:27",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "👋 Welcome to Al Farooj Restaurant! \nWould you like to see our menu or place an order? Try saying, 'Can I see the menu please?' or 'I want to order'."
+    },
+    {
+        "timestamp": "2025-05-01 16:22:33",
+        "user_number": "user",
+        "incoming_message": "menu",
+        "response": "{'text': \"🍽️ Here's our menu! \\n\\nWould you like to place an order? (Try, 'I want to order')\", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 16:23:53",
+        "user_number": "user",
+        "incoming_message": "i wnt falafl sandwich",
+        "response": "❓ Please reply with 'menu' or 'order' to proceed."
+    },
+    {
+        "timestamp": "2025-05-01 16:24:02",
+        "user_number": "user",
+        "incoming_message": "i want to order falfl sandwich",
+        "response": "🍽️ You selected 1 x Dragon Sandwich.\nDescription: Spicy dragon sandwich with crispy chicken.\nWould you like to customize it? (Reply with 'yes' or 'no')"
+    },
+    {
+        "timestamp": "2025-05-01 16:24:12",
+        "user_number": "user",
+        "incoming_message": "i want to order falfel sandwich",
+        "response": "❓ Please reply with 'yes' or 'no'."
+    },
+    {
+        "timestamp": "2025-05-01 16:24:20",
+        "user_number": "user",
+        "incoming_message": "hi",
+        "response": "👋 Welcome to Al Farooj Restaurant! \nWould you like to see our menu or place an order? Try saying, 'Can I see the menu please?' or 'I want to order'."
+    },
+    {
+        "timestamp": "2025-05-01 16:24:27",
+        "user_number": "user",
+        "incoming_message": "i want to order 2 falfel sandwich",
+        "response": "🍽️ You selected 2 x Dragon Sandwich.\nDescription: Spicy dragon sandwich with crispy chicken.\nWould you like to customize it? (Reply with 'yes' or 'no')"
+    },
+    {
+        "timestamp": "2025-05-01 16:24:42",
+        "user_number": "user",
+        "incoming_message": "hi",
+        "response": "👋 Welcome to Al Farooj Restaurant! \nWould you like to see our menu or place an order? Try saying, 'Can I see the menu please?' or 'I want to order'."
+    },
+    {
+        "timestamp": "2025-05-01 16:24:48",
+        "user_number": "user",
+        "incoming_message": "i want to order 2 falafel sandwich",
+        "response": "🍽️ You selected 2 x Falafel Sandwich.\nDescription: A traditional falafel sandwich with tahini and pickles.\nWould you like to customize it? (Reply with 'yes' or 'no')"
+    },
+    {
+        "timestamp": "2025-05-01 16:25:34",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "👋 Welcome to Al Farooj Restaurant! \nWould you like to see our menu or place an order? Try saying, 'Can I see the menu please?' or 'I want to order'."
+    },
+    {
+        "timestamp": "2025-05-01 16:27:23",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "👋 Welcome to Al Farooj Restaurant! \nWould you like to see our menu or place an order? Try saying, 'Can I see the menu please?' or 'I want to order'."
+    },
+    {
+        "timestamp": "2025-05-01 16:27:35",
+        "user_number": "user",
+        "incoming_message": "i want to see the menu",
+        "response": "{'text': \"🍽️ Here's our menu! \\n\\nWould you like to place an order? \", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 16:27:51",
+        "user_number": "user",
+        "incoming_message": "i want to order falafel sandwich",
+        "response": "🍽️ You selected 1 x Falafel Sandwich.\nDescription: A traditional falafel sandwich with tahini and pickles.\nWould you like to customize it? (Reply with 'yes' or 'no')"
+    },
+    {
+        "timestamp": "2025-05-01 16:27:54",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ Dish added to your order. Would you like to add another dish? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 16:27:55",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "✅ All dishes added. Is your order for delivery or will you come to the restaurant?"
+    },
+    {
+        "timestamp": "2025-05-01 16:27:59",
+        "user_number": "user",
+        "incoming_message": "come",
+        "response": "📍 Which Al Farooj branch will you visit? Please choose from: Mazmar, Ajman, Sharjah, Tawam, Manaseer."
+    },
+    {
+        "timestamp": "2025-05-01 16:28:02",
+        "user_number": "user",
+        "incoming_message": "manaseer",
+        "response": "✅ Dine-in order confirmed at Manaseer. Please provide your name to finalize your order."
+    },
+    {
+        "timestamp": "2025-05-01 16:28:04",
+        "user_number": "user",
+        "incoming_message": "s",
+        "response": "✅ Thank you S! Your order (ID: c86a8c17) has been confirmed.\n🧾 Invoice:\n1 x Falafel Sandwich @ AED 7.00 = AED 7.00\nTotal: AED 7.00\nEnjoy your meal! 🍽️"
+    },
+    {
+        "timestamp": "2025-05-01 16:29:12",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "Hey! 👋 Welcome to Al Farooj Restaurant! So, what can I get for you? Want to take a look at our menu or go ahead and place an order? Just let me know! 😊"
+    },
+    {
+        "timestamp": "2025-05-01 16:29:28",
+        "user_number": "user",
+        "incoming_message": "i want to order 2 falafel sandwich",
+        "response": "Hey! So you've got 2 Falafel Sandwiches - the classic one with tahini and pickles. Want to make any changes to it?"
+    },
+    {
+        "timestamp": "2025-05-01 16:29:33",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "Alright, got that dish added to your order! Want to add another one? 🤔"
+    },
+    {
+        "timestamp": "2025-05-01 16:29:37",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "Alright, got all your dishes in! Now, are you gonna swing by the restaurant or would you like us to deliver it to you?"
+    },
+    {
+        "timestamp": "2025-05-01 16:29:44",
+        "user_number": "user",
+        "incoming_message": "deliver",
+        "response": "Hey! Can you just clarify if you'd like to grab your order to go or eat in with us? 😊"
+    },
+    {
+        "timestamp": "2025-05-01 16:29:51",
+        "user_number": "user",
+        "incoming_message": "delivery",
+        "response": "Hey! Which Al Farooj branch would you like to order from? We've got Mazmar, Ajman, Sharjah, Tawam, and Manaseer. Let me know!"
+    },
+    {
+        "timestamp": "2025-05-01 16:30:10",
+        "user_number": "user",
+        "incoming_message": "ajman",
+        "response": "Hey! How would you like to pay? Cash or card? 📈"
+    },
+    {
+        "timestamp": "2025-05-01 16:30:14",
+        "user_number": "user",
+        "incoming_message": "cash",
+        "response": "\"Alright, got your payment method set as cash! Now, can you please share your delivery location or just type in your address?"
+    },
+    {
+        "timestamp": "2025-05-01 16:30:28",
+        "user_number": "user",
+        "incoming_message": "124 ajman",
+        "response": "Hey! Got your location. Now, can you please share your name with me so I can finalize your order?"
+    },
+    {
+        "timestamp": "2025-05-01 16:30:32",
+        "user_number": "user",
+        "incoming_message": "c",
+        "response": "✅ Thank you C! Your order (ID: cd621497) has been confirmed.\n🧾 Invoice:\n2 x Falafel Sandwich @ AED 7.00 = AED 14.00\nTotal: AED 14.00\nEnjoy your meal! 🍽️"
+    },
+    {
+        "timestamp": "2025-05-01 16:36:41",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "Hey there! Welcome to Al Farooj Restaurant! So, what can I get for you today? Want to take a look at the menu or go ahead and place an order? Just let me know!"
+    },
+    {
+        "timestamp": "2025-05-01 16:36:53",
+        "user_number": "user",
+        "incoming_message": "i want to see the menu",
+        "response": "{'text': \"🍽️ Here's our menu! \\n\\nWould you like to place an order? \", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 16:37:05",
+        "user_number": "user",
+        "incoming_message": "i want to order 4 crispy strips meal",
+        "response": "Hey! You've got 4 Crispy Strips Meals - crispy fried chicken strips with coleslaw and fries. Want to customize? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 16:37:43",
+        "user_number": "user",
+        "incoming_message": "i want to see the men",
+        "response": "Hey! Want to see our menu or place an order? Just say \"Can I see the menu please?\" or \"I want to order\"."
+    },
+    {
+        "timestamp": "2025-05-01 16:37:50",
+        "user_number": "user",
+        "incoming_message": "i want to see the menu",
+        "response": "{'text': \"🍽️ Here's our menu! \\n\\nWould you like to place an order? \", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 16:38:04",
+        "user_number": "user",
+        "incoming_message": "i want to order 2 crispy strips mel",
+        "response": "🍽️ Got 2 Crispy Strips Meals - that's crispy chicken strips, coleslaw, and fries! Want to customize? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 16:38:13",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "All set! Added that dish for you. Want to add another one? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 16:38:24",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "Alright, all dishes are in! Are you getting delivery or coming to the restaurant?"
+    },
+    {
+        "timestamp": "2025-05-01 16:38:30",
+        "user_number": "user",
+        "incoming_message": "delivery",
+        "response": "📍 So, which Al Farooj branch works for you? Mazmar, Ajman, Sharjah, Tawam, or Manaseer?"
+    },
+    {
+        "timestamp": "2025-05-01 16:38:33",
+        "user_number": "user",
+        "incoming_message": "manaseer",
+        "response": "\"Hey, how do you want to pay? Cash or card?"
+    },
+    {
+        "timestamp": "2025-05-01 16:38:44",
+        "user_number": "user",
+        "incoming_message": "card",
+        "response": "Got it! Your card is saved as your payment method. Now, can you please share your delivery location or type in your address?"
+    },
+    {
+        "timestamp": "2025-05-01 16:38:50",
+        "user_number": "user",
+        "incoming_message": "x",
+        "response": "Got it! We've received your delivery location. Now, can you please share your name to finalize your order?"
+    },
+    {
+        "timestamp": "2025-05-01 16:38:55",
+        "user_number": "user",
+        "incoming_message": "cc",
+        "response": "✅ Thank you Cc! Your order (ID: 5a487f90) has been confirmed.\n🧾 Invoice:\n2 x Crispy Strips Meal @ AED 30.00 = AED 60.00\nTotal: AED 60.00\nEnjoy your meal! 🍽️"
+    },
+    {
+        "timestamp": "2025-05-01 16:39:11",
+        "user_number": "user",
+        "incoming_message": "ya hala ya marhaba",
+        "response": "Hey! So you're at Al Farooj Restaurant. Want to check out our menu or order something? Just let me know by saying \"Can I see the menu please?\" or \"I want to order\"."
+    },
+    {
+        "timestamp": "2025-05-01 16:39:27",
+        "user_number": "user",
+        "incoming_message": "menu",
+        "response": "{'text': \"🍽️ Here's our menu! \\n\\nWould you like to place an order? \", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 16:39:39",
+        "user_number": "user",
+        "incoming_message": "i want to order 1 crispy rap sandwich",
+        "response": "🍽️ Got a Crispy Wrap Sandwich with chicken and veggies. Want to customize it? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 16:40:04",
+        "user_number": "user",
+        "incoming_message": "yes",
+        "response": "What kind of customization would you like? (e.g., extra cheese, no onions)"
+    },
+    {
+        "timestamp": "2025-05-01 16:40:10",
+        "user_number": "user",
+        "incoming_message": "extra cheese",
+        "response": "All set! Customization saved. Want to add another dish?"
+    },
+    {
+        "timestamp": "2025-05-01 16:40:16",
+        "user_number": "user",
+        "incoming_message": "nope",
+        "response": "Alright, all dishes added! Delivery or pickup?"
+    },
+    {
+        "timestamp": "2025-05-01 16:40:23",
+        "user_number": "user",
+        "incoming_message": "pickup",
+        "response": "Hey, which Al Farooj branch are you heading to? Mazmar, Ajman, Sharjah, Tawam, or Manaseer?"
+    },
+    {
+        "timestamp": "2025-05-01 16:40:31",
+        "user_number": "user",
+        "incoming_message": "manaseer",
+        "response": "All set at Manaseer! Just need your name to finalize your dine-in order."
+    },
+    {
+        "timestamp": "2025-05-01 16:40:33",
+        "user_number": "user",
+        "incoming_message": "x",
+        "response": "✅ Thank you X! Your order (ID: 87f00989) has been confirmed.\n🧾 Invoice:\n1 x Crispy Wrap Sandwich @ AED 13.00 = AED 13.00\nTotal: AED 13.00\nEnjoy your meal! 🍽️"
+    },
+    {
+        "timestamp": "2025-05-01 20:44:49",
+        "user_number": "user",
+        "incoming_message": "ya hala",
+        "response": "Hey! Want to see our menu or place an order? Just say \"Can I see the menu please?\" or \"I want to order\"."
+    },
+    {
+        "timestamp": "2025-05-01 20:44:57",
+        "user_number": "user",
+        "incoming_message": "i want the menu",
+        "response": "{'text': \"🍽️ Here's our menu! \\n\\nWould you like to place an order? \", 'menu_images': ['https://i.ibb.co/FL6SCT67/1.jpg', 'https://i.ibb.co/x8G4mt8C/2.jpg', 'https://i.ibb.co/ZZLXgsz/3.jpg', 'https://i.ibb.co/fdWDRwTq/4.jpg']}"
+    },
+    {
+        "timestamp": "2025-05-01 20:45:12",
+        "user_number": "user",
+        "incoming_message": "i want to order 2 fried chiken box",
+        "response": "Hey! You've got 2 x Crispy Fried Chicken Box, which comes with fries and coleslaw. Want to customize it? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 20:45:19",
+        "user_number": "user",
+        "incoming_message": "yes",
+        "response": "What can I get for you? Please add any customizations like \"extra cheese, no onions\"."
+    },
+    {
+        "timestamp": "2025-05-01 20:45:23",
+        "user_number": "user",
+        "incoming_message": "extra sauce",
+        "response": "All set! Want to add another dish? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 20:45:26",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "Alright, got all the dishes! Delivery or pickup?"
+    },
+    {
+        "timestamp": "2025-05-01 20:45:30",
+        "user_number": "user",
+        "incoming_message": "pickup",
+        "response": "Hey! Which Al Farooj branch will you visit? Mazmar, Ajman, Sharjah, Tawam, Manaseer?"
+    },
+    {
+        "timestamp": "2025-05-01 20:45:35",
+        "user_number": "user",
+        "incoming_message": "ajman",
+        "response": "All set for dine-in at Ajman! Just need your name to finalize your order."
+    },
+    {
+        "timestamp": "2025-05-01 20:45:46",
+        "user_number": "user",
+        "incoming_message": "chedli",
+        "response": "✅ Thank you Chedli! Your order (ID: 546a1dd7) has been confirmed.\n🧾 Invoice:\n2 x Crispy Fried Chicken Box @ AED 72.00 = AED 144.00\nTotal: AED 144.00\nEnjoy your meal! 🍽️"
+    },
+    {
+        "timestamp": "2025-05-01 20:45:54",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "Hey! Want to see our menu or place an order? Just say \"Can I see the menu please?\" or \"I want to order\"."
+    },
+    {
+        "timestamp": "2025-05-01 20:46:26",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "Hey! So you're at Al Farooj Restaurant. Want to check out our menu or go ahead and order?"
+    },
+    {
+        "timestamp": "2025-05-01 20:46:46",
+        "user_number": "user",
+        "incoming_message": "i want to order 4 beans salad and a chiken combo box please",
+        "response": "🍽️ Got 4 x Beans Salad - fresh beans and veggies.\nWant to customize it? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 20:46:50",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "All set! Dish added to your order. Want to add another one? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 20:47:10",
+        "user_number": "user",
+        "incoming_message": "yes",
+        "response": "What's the next dish you'd like to order? You can specify quantity, like \"2 pasta\" or \"three salads\"."
+    },
+    {
+        "timestamp": "2025-05-01 20:47:24",
+        "user_number": "user",
+        "incoming_message": "i want to order 4 beans salad and 1 chiken combo box please",
+        "response": "Hey! You've got 4 servings of our fresh bean and veggie salad. Want to customize it? 🍽️"
+    },
+    {
+        "timestamp": "2025-05-01 20:47:33",
+        "user_number": "user",
+        "incoming_message": "^no",
+        "response": "Got your Falafel Platter Box! That's falafel, tahini, and veggies. Want to make it your own?"
+    },
+    {
+        "timestamp": "2025-05-01 20:47:38",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "All set! Added that dish. Want to add another one? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 20:47:41",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "Alright, got all dishes in! Delivery or pickup?"
+    },
+    {
+        "timestamp": "2025-05-01 20:47:48",
+        "user_number": "user",
+        "incoming_message": "pickup",
+        "response": "Hey, which Al Farooj branch are you heading to? We've got Mazmar, Ajman, Sharjah, Tawam, and Manaseer."
+    },
+    {
+        "timestamp": "2025-05-01 20:47:51",
+        "user_number": "user",
+        "incoming_message": "tawam",
+        "response": "Hey! We've confirmed your dine-in order at Tawam. Can you please share your name to finalize it?"
+    },
+    {
+        "timestamp": "2025-05-01 20:47:57",
+        "user_number": "user",
+        "incoming_message": "n",
+        "response": "✅ Thank you N! Your order (ID: baa21469) has been confirmed.\n🧾 Invoice:\n8 x Beans Salad @ AED 25.00 = AED 200.00\n1 x Falafel Platter Box @ AED 23.00 = AED 23.00\nTotal: AED 223.00\nEnjoy your meal! 🍽️"
+    },
+    {
+        "timestamp": "2025-05-01 20:55:18",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "Hey! Want to see our menu or place an order? Just say \"Can I see the menu please?\" or \"I want to order\"."
+    },
+    {
+        "timestamp": "2025-05-01 20:55:45",
+        "user_number": "user",
+        "incoming_message": "ya hala",
+        "response": "Hey! Want to check out our menu or place an order? Just say \"Can I see the menu please?\" or \"I want to order\"."
+    },
+    {
+        "timestamp": "2025-05-01 20:56:05",
+        "user_number": "user",
+        "incoming_message": "ya hala",
+        "response": "Hey! Want to check out our menu or go ahead and order?"
+    },
+    {
+        "timestamp": "2025-05-01 20:56:15",
+        "user_number": "user",
+        "incoming_message": "order please",
+        "response": "What's your order? Just type it like \"2 chicken burgers\" or \"1 shawarma\"."
+    },
+    {
+        "timestamp": "2025-05-01 20:56:20",
+        "user_number": "user",
+        "incoming_message": "show me the menu",
+        "response": "Oops, couldn't match that dish! Let's skip it. Want to try another one?"
+    },
+    {
+        "timestamp": "2025-05-01 20:56:37",
+        "user_number": "user",
+        "incoming_message": "i want to order 2 chicken strips",
+        "response": "🍽️ You got 2 Crispy Strips Meals! That's crispy fried chicken strips with coleslaw and fries. Want to customize? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 20:56:42",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "All set! Dish added to your order. Want to add another one? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 20:56:44",
+        "user_number": "user",
+        "incoming_message": "yes",
+        "response": "What's next? Type the dish you'd like to order, and feel free to add the quantity (e.g., '2 pasta' or 'three salads')."
+    },
+    {
+        "timestamp": "2025-05-01 20:57:01",
+        "user_number": "user",
+        "incoming_message": "i want 2 crispy chken meal and 1 beans salad",
+        "response": "🍽️ Got your 2 x Crispy Strips Meal! That's crispy fried chicken strips with coleslaw and fries. Want to customize? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 20:57:05",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "Hey! You've got 1 x Beans Salad, made with fresh beans and veggies. Want to customize it? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 20:57:09",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "All set! Dish added to your order. Want to add another one? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 20:57:11",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "Alright, got all your dishes in! Delivery or pickup?"
+    },
+    {
+        "timestamp": "2025-05-01 20:57:24",
+        "user_number": "user",
+        "incoming_message": "im goonna come and pick it up",
+        "response": "Hey, which Al Farooj branch will you swing by? Mazmar, Ajman, Sharjah, Tawam, or Manaseer?"
+    },
+    {
+        "timestamp": "2025-05-01 20:57:29",
+        "user_number": "user",
+        "incoming_message": "tawam please",
+        "response": "Hey, looks like that branch isn't valid. Can you try again with one of these instead: Mazmar, Ajman, Sharjah, Tawam, or Manaseer?"
+    },
+    {
+        "timestamp": "2025-05-01 20:57:38",
+        "user_number": "user",
+        "incoming_message": "ajman",
+        "response": "Hey! Your Ajman dine-in is confirmed. Can you please share your name to finalize the order?"
+    },
+    {
+        "timestamp": "2025-05-01 20:57:41",
+        "user_number": "user",
+        "incoming_message": "c",
+        "response": "✅ Thank you C! Your order (ID: cdeeb03f) has been confirmed.\n🧾 Invoice:\n4 x Crispy Strips Meal @ AED 30.00 = AED 120.00\n1 x Beans Salad @ AED 25.00 = AED 25.00\nTotal: AED 145.00\nEnjoy your meal! 🍽️"
+    },
+    {
+        "timestamp": "2025-05-01 20:57:50",
+        "user_number": "user",
+        "incoming_message": "hello",
+        "response": "Hey! Want to check out our menu or go ahead and order?"
+    },
+    {
+        "timestamp": "2025-05-01 20:57:57",
+        "user_number": "user",
+        "incoming_message": "i want to order bean salad",
+        "response": "🍽️ Got your Falafel Salad with tahini dressing. Want to customize it?"
+    },
+    {
+        "timestamp": "2025-05-01 20:58:11",
+        "user_number": "user",
+        "incoming_message": "no",
+        "response": "All set! Dish added to your order. Want to add another one? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 20:58:16",
+        "user_number": "user",
+        "incoming_message": "cancel it",
+        "response": "⚠️ Cancel your order? Yes/No?"
+    },
+    {
+        "timestamp": "2025-05-01 20:58:19",
+        "user_number": "user",
+        "incoming_message": "yes",
+        "response": "Order canceled! Feel free to start a new one whenever you're ready."
+    },
+    {
+        "timestamp": "2025-05-01 20:58:30",
+        "user_number": "user",
+        "incoming_message": "i want bean salad",
+        "response": "Got your Falafel Salad with fresh falafel and tahini dressing! Want to customize it? 🍽️ (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 20:58:34",
+        "user_number": "user",
+        "incoming_message": "cancel",
+        "response": "Reset! Start fresh with a new order."
+    },
+    {
+        "timestamp": "2025-05-01 21:03:41",
+        "user_number": "user",
+        "incoming_message": "hi",
+        "response": "Hey! Want to see our menu or place an order? Just say \"Can I see the menu please?\" or \"I want to order\"."
+    },
+    {
+        "timestamp": "2025-05-01 21:06:43",
+        "user_number": "user",
+        "incoming_message": "i want to order 2 bean salad",
+        "response": "Here's your falafel salad - 2 of 'em! Fresh falafel with tahini dressing. Want to customize? (yes/no)"
+    },
+    {
+        "timestamp": "2025-05-01 22:56:04",
+        "user_number": "user",
+        "incoming_message": "halo",
+        "response": "Hey! Want to see our menu or place an order? Just say \"Can I see the menu please?\" or \"I want to order\"."
+    },
+    {
+        "timestamp": "2025-05-01 22:58:05",
+        "user_number": "user",
+        "incoming_message": "i want to order bean salad",
+        "response": "Hey! Want to see our menu or place an order? Just say \"Can I see the menu please?\" or \"I want to order\"."
+    },
+    {
+        "timestamp": "2025-05-01 22:58:13",
+        "user_number": "user",
+        "incoming_message": "i want to order bean salad",
+        "response": "Hey! You've got a Beans Salad with fresh beans and veggies. Want to customize it? 👍"
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "order_id": "87f00989",
+    "user_id": "user",
+    "username": "X",
+    "order_type": "dine-in",
+    "branch": "Manaseer",
+    "location": "N/A",
+    "payment_method": "N/A",
+    "order": [
+        {
+            "id": 1,
+            "name": "Crispy Wrap Sandwich",
+            "name_arabic": "ساندويتش كريسبي ملفوف",
+            "description": "Delicious crispy wrap filled with chicken and vegetables.",
+            "description_arabic": "ساندويتش الكريسبي ملفوف بالدجاج والخضروات.",
+            "price": 13,
+            "quantity": 1,
+            "customizations": "extra cheese"
+        }
+    ],
+    "total_cost": 13,
+    "timestamp": "2025-05-01T16:40:33.657776"
+}

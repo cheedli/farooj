@@ -1,0 +1,23 @@
+{
+    "order_id": "44de614b",
+    "user_id": "user",
+    "username": "Ched",
+    "order_type": "delivery",
+    "branch": "Mazmar",
+    "location": "mazmar 1234",
+    "payment_method": "cash",
+    "order": [
+        {
+            "id": 32,
+            "name": "Beans Salad",
+            "name_arabic": "سلطة فاصوليا",
+            "description": "Salad made with fresh beans and vegetables.",
+            "description_arabic": "سلطة الفاصوليا مع الخضروات الطازجة.",
+            "price": 25,
+            "quantity": 3,
+            "customizations": "None"
+        }
+    ],
+    "total_cost": 75,
+    "timestamp": "2025-05-01T10:52:14.338287"
+}

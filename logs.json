@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2025-02-17 21:46:19",
+        "user": "flask_user",
+        "incoming_message": "hello",
+        "bot_reply": "👋 Welcome to Al Farooj Restaurant! Would you like to see our menu or place an order?"
+    },
+    {
+        "timestamp": "2025-02-17 21:46:26",
+        "user": "flask_user",
+        "incoming_message": "can i see the menu",
+        "bot_reply": "👋 Welcome to Al Farooj Restaurant! Would you like to see our menu or place an order?"
+    },
+    {
+        "timestamp": "2025-02-17 21:46:32",
+        "user": "flask_user",
+        "incoming_message": "come on",
+        "bot_reply": "👋 Welcome to Al Farooj Restaurant! Would you like to see our menu or place an order?"
+    }
+]

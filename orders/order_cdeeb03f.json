@@ -1,0 +1,43 @@
+{
+    "order_id": "cdeeb03f",
+    "user_id": "user",
+    "username": "C",
+    "order_type": "dine-in",
+    "branch": "Ajman",
+    "location": "N/A",
+    "payment_method": "N/A",
+    "order": [
+        {
+            "id": 2,
+            "name": "Crispy Strips Meal",
+            "name_arabic": "وجبة شرائح مقرمشة",
+            "description": "Crispy fried chicken strips served with coleslaw and fries.",
+            "description_arabic": "وجبة شرائح مقرمشة مع سلطة الكولسلو والبطاطا.",
+            "price": 30,
+            "quantity": 2,
+            "customizations": "None"
+        },
+        {
+            "id": 2,
+            "name": "Crispy Strips Meal",
+            "name_arabic": "وجبة شرائح مقرمشة",
+            "description": "Crispy fried chicken strips served with coleslaw and fries.",
+            "description_arabic": "وجبة شرائح مقرمشة مع سلطة الكولسلو والبطاطا.",
+            "price": 30,
+            "quantity": 2,
+            "customizations": "None"
+        },
+        {
+            "id": 32,
+            "name": "Beans Salad",
+            "name_arabic": "سلطة فاصوليا",
+            "description": "Salad made with fresh beans and vegetables.",
+            "description_arabic": "سلطة الفاصوليا مع الخضروات الطازجة.",
+            "price": 25,
+            "quantity": 1,
+            "customizations": "None"
+        }
+    ],
+    "total_cost": 145,
+    "timestamp": "2025-05-01T20:57:41.219220"
+}

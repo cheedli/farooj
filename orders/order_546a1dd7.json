@@ -1,0 +1,23 @@
+{
+    "order_id": "546a1dd7",
+    "user_id": "user",
+    "username": "Chedli",
+    "order_type": "dine-in",
+    "branch": "Ajman",
+    "location": "N/A",
+    "payment_method": "N/A",
+    "order": [
+        {
+            "id": 3,
+            "name": "Crispy Fried Chicken Box",
+            "name_arabic": "بوكس دجاج مقلي مقرمش",
+            "description": "Box of crispy fried chicken with fries and coleslaw.",
+            "description_arabic": "بوكس دجاج مقلي مقرمش مع بطاطا وسلطة كولسلو.",
+            "price": 72,
+            "quantity": 2,
+            "customizations": "extra sauce"
+        }
+    ],
+    "total_cost": 144,
+    "timestamp": "2025-05-01T20:45:46.903062"
+}

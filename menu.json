@@ -1,0 +1,307 @@
+[
+  {
+      "category": "Chicken Crunchies",
+      "items": [
+          {
+              "id": 1,
+              "name": "Crispy Wrap Sandwich",
+              "name_arabic": "ساندويتش كريسبي ملفوف",
+              "description": "Delicious crispy wrap filled with chicken and vegetables.",
+              "description_arabic": "ساندويتش الكريسبي ملفوف بالدجاج والخضروات.",
+              "price": 13
+          },
+          {
+              "id": 2,
+              "name": "Crispy Strips Meal",
+              "name_arabic": "وجبة شرائح مقرمشة",
+              "description": "Crispy fried chicken strips served with coleslaw and fries.",
+              "description_arabic": "وجبة شرائح مقرمشة مع سلطة الكولسلو والبطاطا.",
+              "price": 30
+          },
+          {
+              "id": 3,
+              "name": "Crispy Fried Chicken Box",
+              "name_arabic": "بوكس دجاج مقلي مقرمش",
+              "description": "Box of crispy fried chicken with fries and coleslaw.",
+              "description_arabic": "بوكس دجاج مقلي مقرمش مع بطاطا وسلطة كولسلو.",
+              "price": 72
+          },
+          {
+              "id": 4,
+              "name": "Broasted Fried Chicken",
+              "name_arabic": "دجاج مقلي بروستد",
+              "description": "Three pieces of broasted fried chicken served with fries.",
+              "description_arabic": "دجاج مقلي بروستد مع بطاطا.",
+              "price": 30
+          },
+          {
+              "id": 5,
+              "name": "Dragon Sandwich",
+              "name_arabic": "ساندويتش التنين",
+              "description": "Spicy dragon sandwich with crispy chicken.",
+              "description_arabic": "ساندويتش التنين الحار مع الدجاج المقرمش.",
+              "price": 20
+          },
+          {
+              "id": 6,
+              "name": "Extra Fire Sandwich",
+              "name_arabic": "ساندويتش اكسترا حار",
+              "description": "Extra spicy chicken sandwich for heat lovers.",
+              "description_arabic": "ساندويتش اكسترا حار لمحبي التوابل الحارة.",
+              "price": 20
+          }
+      ]
+  },
+  {
+      "category": "Al Farooj Box",
+      "items": [
+          {
+              "id": 7,
+              "name": "Shawarma Bites Box (Chicken)",
+              "name_arabic": "بوكس شاورما بايتس بالدجاج",
+              "description": "Bite-sized chicken shawarma pieces.",
+              "description_arabic": "بوكس بايتس الشاورما بالدجاج.",
+              "price": 35
+          },
+          {
+              "id": 8,
+              "name": "Shawarma Bites Box (Beef)",
+              "name_arabic": "بوكس شاورما بايتس باللحم",
+              "description": "Bite-sized beef shawarma pieces.",
+              "description_arabic": "بوكس بايتس الشاورما باللحم.",
+              "price": 47
+          },
+          {
+              "id": 9,
+              "name": "Falafel Platter Box",
+              "name_arabic": "بوكس طبق فلافل",
+              "description": "A platter of falafel served with tahini and vegetables.",
+              "description_arabic": "بوكس طبق الفلافل مع الطحينة والخضروات.",
+              "price": 23
+          },
+          {
+              "id": 10,
+              "name": "Chicken Burger Bites Box",
+              "name_arabic": "بوكس برجر بايتس الدجاج",
+              "description": "Mini chicken burgers with a variety of toppings.",
+              "description_arabic": "بوكس برجر بايتس الدجاج بمكونات متنوعة.",
+              "price": 75
+          },
+          {
+              "id": 11,
+              "name": "Falafel Bites Box",
+              "name_arabic": "بوكس فلافل بايتس",
+              "description": "Bite-sized falafel pieces with tahini sauce.",
+              "description_arabic": "بوكس فلافل بايتس مع صلصة الطحينة.",
+              "price": 33
+          },
+          {
+              "id": 12,
+              "name": "Falafel Signature Sandwich",
+              "name_arabic": "ساندويتش فلافل مميز",
+              "description": "Signature falafel sandwich with fresh vegetables.",
+              "description_arabic": "ساندويتش فلافل مميز مع خضروات طازجة.",
+              "price": 13
+          },
+          {
+              "id": 13,
+              "name": "Falafel Sandwich",
+              "name_arabic": "ساندويتش فلافل",
+              "description": "A traditional falafel sandwich with tahini and pickles.",
+              "description_arabic": "ساندويتش فلافل تقليدي مع طحينة ومخللات.",
+              "price": 7
+          }
+      ]
+  },
+  {
+      "category": "Beef Shawarma",
+      "items": [
+          {
+              "id": 14,
+              "name": "Original Beef Shawarma (Lebanese/Mexican)",
+              "name_arabic": "شاورما لحم أصلية (لبناني/مكسيكي)",
+              "description": "Authentic beef shawarma served Lebanese or Mexican style.",
+              "description_arabic": "شاورما لحم أصلي بأسلوب لبناني أو مكسيكي.",
+              "price": 11
+          },
+          {
+              "id": 15,
+              "name": "SAJ Beef Shawarma",
+              "name_arabic": "شاورما لحم خبز الصاج",
+              "description": "Beef shawarma wrapped in SAJ bread.",
+              "description_arabic": "شاورما لحم ملفوفة بخبز الصاج.",
+              "price": 12
+          },
+          {
+              "id": 16,
+              "name": "Delhi Beef Sandwich",
+              "name_arabic": "ساندويتش لحم دلهي",
+              "description": "Signature Delhi-style beef sandwich.",
+              "description_arabic": "ساندويتش دلهي الخاص.",
+              "price": 11
+          },
+          {
+              "id": 17,
+              "name": "Fajita Beef Sandwich",
+              "name_arabic": "ساندويتش فاهيتا لحم",
+              "description": "Signature beef fajita sandwich with spices.",
+              "description_arabic": "ساندويتش فاهيتا لحم مميز بالتوابل.",
+              "price": 17
+          },
+          {
+              "id": 18,
+              "name": "Hummus Beef Shawarma Plate",
+              "name_arabic": "طبق شاورما لحم مع حمص",
+              "description": "Beef shawarma served with hummus and bread.",
+              "description_arabic": "طبق شاورما لحم مع حمص وخبز.",
+              "price": 35
+          },
+          {
+              "id": 19,
+              "name": "Burrito Beef Plate",
+              "name_arabic": "طبق بوريتو لحم",
+              "description": "Beef shawarma served in a burrito-style plate.",
+              "description_arabic": "طبق شاورما لحم على طراز البوريتو.",
+              "price": 29
+          },
+          {
+              "id": 20,
+              "name": "Mansaf Beef Shawarma Plate",
+              "name_arabic": "طبق شاورما لحم المنسف",
+              "description": "Traditional Mansaf-style beef shawarma plate.",
+              "description_arabic": "طبق شاورما لحم بأسلوب المنسف التقليدي.",
+              "price": 30
+          }
+      ]
+  },
+  {
+      "category": "From the Grill",
+      "items": [
+          {
+              "id": 21,
+              "name": "Half Grilled Chicken",
+              "name_arabic": "نصف دجاجة مشوية",
+              "description": "Half a grilled chicken served with fries.",
+              "description_arabic": "نصف دجاجة مشوية تقدم مع بطاطا.",
+              "price": 27
+          },
+          {
+              "id": 22,
+              "name": "Full Grilled Chicken",
+              "name_arabic": "دجاجة كاملة مشوية",
+              "description": "A whole grilled chicken served with fries.",
+              "description_arabic": "دجاجة كاملة مشوية تقدم مع بطاطا.",
+              "price": 49
+          },
+          {
+              "id": 23,
+              "name": "Chicken Kebab Plate (with rice)",
+              "name_arabic": "طبق كباب دجاج مع الأرز",
+              "description": "Grilled chicken kebab served with rice.",
+              "description_arabic": "طبق كباب دجاج مشوي يقدم مع أرز.",
+              "price": 34
+          },
+          {
+              "id": 24,
+              "name": "Chicken Kebab Plate (with fries)",
+              "name_arabic": "طبق كباب دجاج مع البطاطا",
+              "description": "Grilled chicken kebab served with fries.",
+              "description_arabic": "طبق كباب دجاج مشوي يقدم مع بطاطا.",
+              "price": 37
+          },
+          {
+              "id": 25,
+              "name": "Tawook Plate (with rice)",
+              "name_arabic": "طبق طاووق مع الأرز",
+              "description": "Grilled chicken tawook served with rice.",
+              "description_arabic": "طبق دجاج طاووق مشوي يقدم مع أرز.",
+              "price": 32
+          },
+          {
+              "id": 26,
+              "name": "Tawook Plate (with fries)",
+              "name_arabic": "طبق طاووق مع البطاطا",
+              "description": "Grilled chicken tawook served with fries.",
+              "description_arabic": "طبق دجاج طاووق مشوي يقدم مع بطاطا.",
+              "price": 38
+          },
+          {
+              "id": 27,
+              "name": "Lamb Kebab Plate (with rice)",
+              "name_arabic": "طبق كباب لحم غنم مع الأرز",
+              "description": "Grilled lamb kebab served with rice.",
+              "description_arabic": "طبق كباب لحم غنم مشوي يقدم مع أرز.",
+              "price": 35
+          },
+          {
+              "id": 28,
+              "name": "Lamb Kebab Plate (with fries)",
+              "name_arabic": "طبق كباب لحم غنم مع البطاطا",
+              "description": "Grilled lamb kebab served with fries.",
+              "description_arabic": "طبق كباب لحم غنم مشوي يقدم مع بطاطا.",
+              "price": 39
+          },
+          {
+              "id": 29,
+              "name": "Lamb Kebab Sandwich",
+              "name_arabic": "ساندويتش كباب لحم غنم",
+              "description": "Sandwich filled with grilled lamb kebab.",
+              "description_arabic": "ساندويتش كباب لحم غنم مشوي.",
+              "price": 20
+          }
+      ]
+  },
+  {
+      "category": "Sides",
+      "items": [
+          {
+              "id": 30,
+              "name": "Caesar Shawarma Salad",
+              "name_arabic": "سلطة سيزر شاورما",
+              "description": "Caesar salad topped with shawarma chicken.",
+              "description_arabic": "سلطة سيزر مغطاة بشاورما الدجاج.",
+              "price": 18
+          },
+          {
+              "id": 31,
+              "name": "Falafel Salad",
+              "name_arabic": "سلطة فلافل",
+              "description": "Fresh falafel salad with tahini dressing.",
+              "description_arabic": "سلطة فلافل طازجة مع صلصة الطحينة.",
+              "price": 17
+          },
+          {
+              "id": 32,
+              "name": "Beans Salad",
+              "name_arabic": "سلطة فاصوليا",
+              "description": "Salad made with fresh beans and vegetables.",
+              "description_arabic": "سلطة الفاصوليا مع الخضروات الطازجة.",
+              "price": 25
+          },
+          {
+              "id": 33,
+              "name": "Dirty Fries (Chicken)",
+              "name_arabic": "بطاطا فوضوية بالدجاج",
+              "description": "Fries topped with chicken shawarma and sauce.",
+              "description_arabic": "بطاطا مقلية مغطاة بشاورما الدجاج وصلصة.",
+              "price": 23
+          },
+          {
+              "id": 34,
+              "name": "Dirty Fries (Beef)",
+              "name_arabic": "بطاطا فوضوية باللحم",
+              "description": "Fries topped with beef shawarma and sauce.",
+              "description_arabic": "بطاطا مقلية مغطاة بشاورما اللحم وصلصة.",
+              "price": 25
+          },
+          {
+              "id": 35,
+              "name": "Loaded Fries",
+              "name_arabic": "بطاطا محشوة",
+              "description": "Fries loaded with toppings and sauces.",
+              "description_arabic": "بطاطا مقلية محشوة بالمكونات والصلصات.",
+              "price": 22
+          }
+      ]
+  }
+]

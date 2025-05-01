@@ -1,0 +1,23 @@
+{
+    "order_id": "ed762480",
+    "user_id": "user",
+    "username": "C",
+    "order_type": "delivery",
+    "branch": "Ajman",
+    "location": "s",
+    "payment_method": "cash",
+    "order": [
+        {
+            "id": 2,
+            "name": "Crispy Strips Meal",
+            "name_arabic": "وجبة شرائح مقرمشة",
+            "description": "Crispy fried chicken strips served with coleslaw and fries.",
+            "description_arabic": "وجبة شرائح مقرمشة مع سلطة الكولسلو والبطاطا.",
+            "price": 30,
+            "quantity": 1,
+            "customizations": "None"
+        }
+    ],
+    "total_cost": 30,
+    "timestamp": "2025-05-01T15:43:02.145205"
+}

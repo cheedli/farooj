@@ -1,0 +1,341 @@
+[
+    {
+        "order_id": "6850a70e",
+        "user_id": "user",
+        "username": "C",
+        "order_type": "delivery",
+        "branch": "Mazmar",
+        "location": "c",
+        "payment_method": "cash",
+        "order": [
+            {
+                "id": 30,
+                "name": "Caesar Shawarma Salad",
+                "name_arabic": "سلطة سيزر شاورما",
+                "description": "Caesar salad topped with shawarma chicken.",
+                "description_arabic": "سلطة سيزر مغطاة بشاورما الدجاج.",
+                "price": 18,
+                "quantity": 3,
+                "customizations": "yo"
+            }
+        ],
+        "total_cost": 54,
+        "timestamp": "2025-02-17T21:51:04.238467"
+    },
+    {
+        "order_id": "0dbb3619",
+        "user_id": "user",
+        "username": "D",
+        "order_type": "dine-in",
+        "branch": "Manaseer",
+        "location": "N/A",
+        "payment_method": "N/A",
+        "order": [
+            {
+                "id": 31,
+                "name": "Falafel Salad",
+                "name_arabic": "سلطة فلافل",
+                "description": "Fresh falafel salad with tahini dressing.",
+                "description_arabic": "سلطة فلافل طازجة مع صلصة الطحينة.",
+                "price": 17,
+                "quantity": 3,
+                "customizations": "None"
+            }
+        ],
+        "total_cost": 51,
+        "timestamp": "2025-02-17T21:51:49.525526"
+    },
+    {
+        "order_id": "a4455094",
+        "user_id": "user",
+        "username": "X",
+        "order_type": "delivery",
+        "branch": "Mazmar",
+        "location": "xx",
+        "payment_method": "cash",
+        "order": [
+            {
+                "id": 32,
+                "name": "Beans Salad",
+                "name_arabic": "سلطة فاصوليا",
+                "description": "Salad made with fresh beans and vegetables.",
+                "description_arabic": "سلطة الفاصوليا مع الخضروات الطازجة.",
+                "price": 25,
+                "quantity": 2,
+                "customizations": "None"
+            }
+        ],
+        "total_cost": 50,
+        "timestamp": "2025-05-01T10:19:02.555685"
+    },
+    {
+        "order_id": "44de614b",
+        "user_id": "user",
+        "username": "Ched",
+        "order_type": "delivery",
+        "branch": "Mazmar",
+        "location": "mazmar 1234",
+        "payment_method": "cash",
+        "order": [
+            {
+                "id": 32,
+                "name": "Beans Salad",
+                "name_arabic": "سلطة فاصوليا",
+                "description": "Salad made with fresh beans and vegetables.",
+                "description_arabic": "سلطة الفاصوليا مع الخضروات الطازجة.",
+                "price": 25,
+                "quantity": 3,
+                "customizations": "None"
+            }
+        ],
+        "total_cost": 75,
+        "timestamp": "2025-05-01T10:52:14.338287"
+    },
+    {
+        "order_id": "ed762480",
+        "user_id": "user",
+        "username": "C",
+        "order_type": "delivery",
+        "branch": "Ajman",
+        "location": "s",
+        "payment_method": "cash",
+        "order": [
+            {
+                "id": 2,
+                "name": "Crispy Strips Meal",
+                "name_arabic": "وجبة شرائح مقرمشة",
+                "description": "Crispy fried chicken strips served with coleslaw and fries.",
+                "description_arabic": "وجبة شرائح مقرمشة مع سلطة الكولسلو والبطاطا.",
+                "price": 30,
+                "quantity": 1,
+                "customizations": "None"
+            }
+        ],
+        "total_cost": 30,
+        "timestamp": "2025-05-01T15:43:02.145205"
+    },
+    {
+        "order_id": "c815fa42",
+        "user_id": "user",
+        "username": "Chedli",
+        "order_type": "dine-in",
+        "branch": "Manaseer",
+        "location": "N/A",
+        "payment_method": "N/A",
+        "order": [
+            {
+                "id": 32,
+                "name": "Beans Salad",
+                "name_arabic": "سلطة فاصوليا",
+                "description": "Salad made with fresh beans and vegetables.",
+                "description_arabic": "سلطة الفاصوليا مع الخضروات الطازجة.",
+                "price": 25,
+                "quantity": 2,
+                "customizations": "None"
+            }
+        ],
+        "total_cost": 50,
+        "timestamp": "2025-05-01T16:19:59.707600"
+    },
+    {
+        "order_id": "c86a8c17",
+        "user_id": "user",
+        "username": "S",
+        "order_type": "dine-in",
+        "branch": "Manaseer",
+        "location": "N/A",
+        "payment_method": "N/A",
+        "order": [
+            {
+                "id": 13,
+                "name": "Falafel Sandwich",
+                "name_arabic": "ساندويتش فلافل",
+                "description": "A traditional falafel sandwich with tahini and pickles.",
+                "description_arabic": "ساندويتش فلافل تقليدي مع طحينة ومخللات.",
+                "price": 7,
+                "quantity": 1,
+                "customizations": "None"
+            }
+        ],
+        "total_cost": 7,
+        "timestamp": "2025-05-01T16:28:04.599549"
+    },
+    {
+        "order_id": "cd621497",
+        "user_id": "user",
+        "username": "C",
+        "order_type": "delivery",
+        "branch": "Ajman",
+        "location": "124 ajman",
+        "payment_method": "cash",
+        "order": [
+            {
+                "id": 13,
+                "name": "Falafel Sandwich",
+                "name_arabic": "ساندويتش فلافل",
+                "description": "A traditional falafel sandwich with tahini and pickles.",
+                "description_arabic": "ساندويتش فلافل تقليدي مع طحينة ومخللات.",
+                "price": 7,
+                "quantity": 2,
+                "customizations": "None"
+            }
+        ],
+        "total_cost": 14,
+        "timestamp": "2025-05-01T16:30:32.056060"
+    },
+    {
+        "order_id": "5a487f90",
+        "user_id": "user",
+        "username": "Cc",
+        "order_type": "delivery",
+        "branch": "Manaseer",
+        "location": "x",
+        "payment_method": "card",
+        "order": [
+            {
+                "id": 2,
+                "name": "Crispy Strips Meal",
+                "name_arabic": "وجبة شرائح مقرمشة",
+                "description": "Crispy fried chicken strips served with coleslaw and fries.",
+                "description_arabic": "وجبة شرائح مقرمشة مع سلطة الكولسلو والبطاطا.",
+                "price": 30,
+                "quantity": 2,
+                "customizations": "None"
+            }
+        ],
+        "total_cost": 60,
+        "timestamp": "2025-05-01T16:38:55.122999"
+    },
+    {
+        "order_id": "87f00989",
+        "user_id": "user",
+        "username": "X",
+        "order_type": "dine-in",
+        "branch": "Manaseer",
+        "location": "N/A",
+        "payment_method": "N/A",
+        "order": [
+            {
+                "id": 1,
+                "name": "Crispy Wrap Sandwich",
+                "name_arabic": "ساندويتش كريسبي ملفوف",
+                "description": "Delicious crispy wrap filled with chicken and vegetables.",
+                "description_arabic": "ساندويتش الكريسبي ملفوف بالدجاج والخضروات.",
+                "price": 13,
+                "quantity": 1,
+                "customizations": "extra cheese"
+            }
+        ],
+        "total_cost": 13,
+        "timestamp": "2025-05-01T16:40:33.657776"
+    },
+    {
+        "order_id": "546a1dd7",
+        "user_id": "user",
+        "username": "Chedli",
+        "order_type": "dine-in",
+        "branch": "Ajman",
+        "location": "N/A",
+        "payment_method": "N/A",
+        "order": [
+            {
+                "id": 3,
+                "name": "Crispy Fried Chicken Box",
+                "name_arabic": "بوكس دجاج مقلي مقرمش",
+                "description": "Box of crispy fried chicken with fries and coleslaw.",
+                "description_arabic": "بوكس دجاج مقلي مقرمش مع بطاطا وسلطة كولسلو.",
+                "price": 72,
+                "quantity": 2,
+                "customizations": "extra sauce"
+            }
+        ],
+        "total_cost": 144,
+        "timestamp": "2025-05-01T20:45:46.903062"
+    },
+    {
+        "order_id": "baa21469",
+        "user_id": "user",
+        "username": "N",
+        "order_type": "dine-in",
+        "branch": "Tawam",
+        "location": "N/A",
+        "payment_method": "N/A",
+        "order": [
+            {
+                "id": 32,
+                "name": "Beans Salad",
+                "name_arabic": "سلطة فاصوليا",
+                "description": "Salad made with fresh beans and vegetables.",
+                "description_arabic": "سلطة الفاصوليا مع الخضروات الطازجة.",
+                "price": 25,
+                "quantity": 4,
+                "customizations": "None"
+            },
+            {
+                "id": 32,
+                "name": "Beans Salad",
+                "name_arabic": "سلطة فاصوليا",
+                "description": "Salad made with fresh beans and vegetables.",
+                "description_arabic": "سلطة الفاصوليا مع الخضروات الطازجة.",
+                "price": 25,
+                "quantity": 4,
+                "customizations": "None"
+            },
+            {
+                "id": 9,
+                "name": "Falafel Platter Box",
+                "name_arabic": "بوكس طبق فلافل",
+                "description": "A platter of falafel served with tahini and vegetables.",
+                "description_arabic": "بوكس طبق الفلافل مع الطحينة والخضروات.",
+                "price": 23,
+                "quantity": 1,
+                "customizations": "None"
+            }
+        ],
+        "total_cost": 223,
+        "timestamp": "2025-05-01T20:47:57.188161"
+    },
+    {
+        "order_id": "cdeeb03f",
+        "user_id": "user",
+        "username": "C",
+        "order_type": "dine-in",
+        "branch": "Ajman",
+        "location": "N/A",
+        "payment_method": "N/A",
+        "order": [
+            {
+                "id": 2,
+                "name": "Crispy Strips Meal",
+                "name_arabic": "وجبة شرائح مقرمشة",
+                "description": "Crispy fried chicken strips served with coleslaw and fries.",
+                "description_arabic": "وجبة شرائح مقرمشة مع سلطة الكولسلو والبطاطا.",
+                "price": 30,
+                "quantity": 2,
+                "customizations": "None"
+            },
+            {
+                "id": 2,
+                "name": "Crispy Strips Meal",
+                "name_arabic": "وجبة شرائح مقرمشة",
+                "description": "Crispy fried chicken strips served with coleslaw and fries.",
+                "description_arabic": "وجبة شرائح مقرمشة مع سلطة الكولسلو والبطاطا.",
+                "price": 30,
+                "quantity": 2,
+                "customizations": "None"
+            },
+            {
+                "id": 32,
+                "name": "Beans Salad",
+                "name_arabic": "سلطة فاصوليا",
+                "description": "Salad made with fresh beans and vegetables.",
+                "description_arabic": "سلطة الفاصوليا مع الخضروات الطازجة.",
+                "price": 25,
+                "quantity": 1,
+                "customizations": "None"
+            }
+        ],
+        "total_cost": 145,
+        "timestamp": "2025-05-01T20:57:41.219220"
+    }
+]

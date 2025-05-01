@@ -1,0 +1,23 @@
+{
+    "order_id": "0dbb3619",
+    "user_id": "user",
+    "username": "D",
+    "order_type": "dine-in",
+    "branch": "Manaseer",
+    "location": "N/A",
+    "payment_method": "N/A",
+    "order": [
+        {
+            "id": 31,
+            "name": "Falafel Salad",
+            "name_arabic": "سلطة فلافل",
+            "description": "Fresh falafel salad with tahini dressing.",
+            "description_arabic": "سلطة فلافل طازجة مع صلصة الطحينة.",
+            "price": 17,
+            "quantity": 3,
+            "customizations": "None"
+        }
+    ],
+    "total_cost": 51,
+    "timestamp": "2025-02-17T21:51:49.525526"
+}

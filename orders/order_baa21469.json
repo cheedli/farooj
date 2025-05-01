@@ -1,0 +1,43 @@
+{
+    "order_id": "baa21469",
+    "user_id": "user",
+    "username": "N",
+    "order_type": "dine-in",
+    "branch": "Tawam",
+    "location": "N/A",
+    "payment_method": "N/A",
+    "order": [
+        {
+            "id": 32,
+            "name": "Beans Salad",
+            "name_arabic": "سلطة فاصوليا",
+            "description": "Salad made with fresh beans and vegetables.",
+            "description_arabic": "سلطة الفاصوليا مع الخضروات الطازجة.",
+            "price": 25,
+            "quantity": 4,
+            "customizations": "None"
+        },
+        {
+            "id": 32,
+            "name": "Beans Salad",
+            "name_arabic": "سلطة فاصوليا",
+            "description": "Salad made with fresh beans and vegetables.",
+            "description_arabic": "سلطة الفاصوليا مع الخضروات الطازجة.",
+            "price": 25,
+            "quantity": 4,
+            "customizations": "None"
+        },
+        {
+            "id": 9,
+            "name": "Falafel Platter Box",
+            "name_arabic": "بوكس طبق فلافل",
+            "description": "A platter of falafel served with tahini and vegetables.",
+            "description_arabic": "بوكس طبق الفلافل مع الطحينة والخضروات.",
+            "price": 23,
+            "quantity": 1,
+            "customizations": "None"
+        }
+    ],
+    "total_cost": 223,
+    "timestamp": "2025-05-01T20:47:57.188161"
+}

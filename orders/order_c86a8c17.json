@@ -1,0 +1,23 @@
+{
+    "order_id": "c86a8c17",
+    "user_id": "user",
+    "username": "S",
+    "order_type": "dine-in",
+    "branch": "Manaseer",
+    "location": "N/A",
+    "payment_method": "N/A",
+    "order": [
+        {
+            "id": 13,
+            "name": "Falafel Sandwich",
+            "name_arabic": "ساندويتش فلافل",
+            "description": "A traditional falafel sandwich with tahini and pickles.",
+            "description_arabic": "ساندويتش فلافل تقليدي مع طحينة ومخللات.",
+            "price": 7,
+            "quantity": 1,
+            "customizations": "None"
+        }
+    ],
+    "total_cost": 7,
+    "timestamp": "2025-05-01T16:28:04.599549"
+}

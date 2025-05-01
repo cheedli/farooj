@@ -1,0 +1,23 @@
+{
+    "order_id": "cd621497",
+    "user_id": "user",
+    "username": "C",
+    "order_type": "delivery",
+    "branch": "Ajman",
+    "location": "124 ajman",
+    "payment_method": "cash",
+    "order": [
+        {
+            "id": 13,
+            "name": "Falafel Sandwich",
+            "name_arabic": "ساندويتش فلافل",
+            "description": "A traditional falafel sandwich with tahini and pickles.",
+            "description_arabic": "ساندويتش فلافل تقليدي مع طحينة ومخللات.",
+            "price": 7,
+            "quantity": 2,
+            "customizations": "None"
+        }
+    ],
+    "total_cost": 14,
+    "timestamp": "2025-05-01T16:30:32.056060"
+}

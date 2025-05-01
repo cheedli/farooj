@@ -1,0 +1,23 @@
+{
+    "order_id": "5a487f90",
+    "user_id": "user",
+    "username": "Cc",
+    "order_type": "delivery",
+    "branch": "Manaseer",
+    "location": "x",
+    "payment_method": "card",
+    "order": [
+        {
+            "id": 2,
+            "name": "Crispy Strips Meal",
+            "name_arabic": "وجبة شرائح مقرمشة",
+            "description": "Crispy fried chicken strips served with coleslaw and fries.",
+            "description_arabic": "وجبة شرائح مقرمشة مع سلطة الكولسلو والبطاطا.",
+            "price": 30,
+            "quantity": 2,
+            "customizations": "None"
+        }
+    ],
+    "total_cost": 60,
+    "timestamp": "2025-05-01T16:38:55.122999"
+}
